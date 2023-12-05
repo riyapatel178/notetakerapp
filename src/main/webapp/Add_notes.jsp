@@ -2,6 +2,7 @@
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
+<!--  add notes-->
 <head>
 <meta charset="UTF-8">
 <title>Add Notes</title>
